@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/abdue/Documents/GitHub/VHDL-LZW/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/abdue/Documents/GitHub/VHDL-LZW/xst"
+elaborate
+-ifn Ram.prj
+-ifmt mixed

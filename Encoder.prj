@@ -1,0 +1,3 @@
+vhdl work "Ram.vhd"
+vhdl work "HashMap.vhd"
+vhdl work "Encoder.vhd"

@@ -1,0 +1,11 @@
+[Inputs]
+clk
+dataDirection
+enable
+=key[0:8]=
+[Outputs]
+valueFound
+isFull
+=currentSize[0:9]=
+[BiDir]
+=value[0:8]=

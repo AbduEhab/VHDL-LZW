@@ -1,0 +1,8 @@
+[Inputs]
+enable
+dataDirection
+=data[0:2]=
+=address[0:2]=
+[Outputs]
+=output[0:2]=
+[BiDir]

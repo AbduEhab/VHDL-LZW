@@ -1,0 +1,8 @@
+EN hashmap NULL C:/Users/abdue/Documents/GitHub/VHDL-LZW/HashMap.vhd sub00/vhpl00 1628975008
+AR encoder structural C:/Users/abdue/Documents/GitHub/VHDL-LZW/Encoder.vhd sub00/vhpl05 1628975011
+AR hashmap behavioral C:/Users/abdue/Documents/GitHub/VHDL-LZW/HashMap.vhd sub00/vhpl01 1628975009
+AR decoder behavioral C:/Users/abdue/Documents/GitHub/VHDL-LZW/Decoder.vhd sub00/vhpl07 1628974994
+EN encoder NULL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Encoder.vhd sub00/vhpl04 1628975010
+AR ram behavioral C:/Users/abdue/Documents/GitHub/VHDL-LZW/Ram.vhd sub00/vhpl03 1628975007
+EN ram NULL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Ram.vhd sub00/vhpl02 1628975006
+EN decoder NULL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Decoder.vhd sub00/vhpl06 1628974993

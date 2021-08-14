@@ -1,0 +1,27 @@
+V3 14
+FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Decoder.vhd 2021/08/14.22:57:59 P.68d
+EN work/Decoder 1628974993 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Decoder.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611
+AR work/Decoder/Behavioral 1628974994 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Decoder.vhd EN work/Decoder 1628974993 \
+      CP HashMap
+FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Encoder.vhd 2021/08/14.23:00:55 P.68d
+EN work/Encoder 1628975010 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Encoder.vhd PB ieee/NUMERIC_STD 1370735611 \
+      PB ieee/std_logic_1164 1370735607
+AR work/Encoder/Structural 1628975011 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Encoder.vhd EN work/Encoder 1628975010 \
+      CP HashMap
+FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/HashMap.vhd 2021/08/14.23:02:13 P.68d
+EN work/HashMap 1628975008 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/HashMap.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/NUMERIC_STD 1370735611
+AR work/HashMap/Behavioral 1628975009 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/HashMap.vhd EN work/HashMap 1628975008 \
+      CP Ram
+FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Ram.vhd 2021/08/14.23:02:49 P.68d
+EN work/Ram 1628975006 FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Ram.vhd \
+      PB ieee/std_logic_1164 1370735607 PB ieee/STD_LOGIC_UNSIGNED 1370735609
+AR work/Ram/Behavioral 1628975007 \
+      FL C:/Users/abdue/Documents/GitHub/VHDL-LZW/Ram.vhd EN work/Ram 1628975006
