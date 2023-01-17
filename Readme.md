@@ -4,9 +4,7 @@
 
 - This code was writen based on the [Java-LZW](https://github.com/AbduEhab/Java-LZW) Repo that I made.
 
-  > I discovered that I absolutly hate VHDL, please don't message me concerning this repo or any code writen in it...
-
-> I won't add an implementation of the LZ77 algorithm.
+  > I have grown to dispise the VHDL language, please don't message me concerning this repo or any code writen in it...
 
 ---
 
@@ -23,5 +21,5 @@
 
 ## Stuff to do
 
-- [ ] Implement the LZ77 algo (Not gonna touch VHDL again)
+- [x] Implement the LZ77 algo (a 13-bit varient was built here: [VHDL-L77](https://github.com/AbduEhab/LZ77-VHDL))
 - [ ] Delete Entire repo someday
